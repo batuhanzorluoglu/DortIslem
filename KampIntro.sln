@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{A724C63E-80C9-49E7-82A7-298ED888825C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{3588D9FC-9B36-4F02-8511-95BCC250B800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{9630AD4E-B9DD-40F7-9CAA-265022B66D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A724C63E-80C9-49E7-82A7-298ED888825C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A724C63E-80C9-49E7-82A7-298ED888825C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A724C63E-80C9-49E7-82A7-298ED888825C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A724C63E-80C9-49E7-82A7-298ED888825C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3588D9FC-9B36-4F02-8511-95BCC250B800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3588D9FC-9B36-4F02-8511-95BCC250B800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3588D9FC-9B36-4F02-8511-95BCC250B800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3588D9FC-9B36-4F02-8511-95BCC250B800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9630AD4E-B9DD-40F7-9CAA-265022B66D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9630AD4E-B9DD-40F7-9CAA-265022B66D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9630AD4E-B9DD-40F7-9CAA-265022B66D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9630AD4E-B9DD-40F7-9CAA-265022B66D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB72722-C86F-478B-B335-FB21F6C6D2BC}
+	EndGlobalSection
+EndGlobal
